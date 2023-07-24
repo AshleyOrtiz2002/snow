@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snow/static/css/main.f85ca816.css",
+    "main.js": "/snow/static/js/main.61569500.js",
+    "static/js/787.9cb92e63.chunk.js": "/snow/static/js/787.9cb92e63.chunk.js",
+    "index.html": "/snow/index.html",
+    "main.f85ca816.css.map": "/snow/static/css/main.f85ca816.css.map",
+    "main.61569500.js.map": "/snow/static/js/main.61569500.js.map",
+    "787.9cb92e63.chunk.js.map": "/snow/static/js/787.9cb92e63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85ca816.css",
+    "static/js/main.61569500.js"
+  ]
+}
